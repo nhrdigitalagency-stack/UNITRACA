@@ -1,0 +1,6 @@
+{
+  "name": "UNITRACA",
+  "description": "UNITRACA — Univers Initiatique aux Traditions et à la Culture Africaine. Portail institutionnel, culturel, éditorial et pédagogique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
